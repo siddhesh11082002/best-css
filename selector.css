@@ -1,0 +1,30 @@
+/* Tag Selector */
+ul {
+    list-style: none;
+  }
+  
+  /* Class Selector */
+  .list-item {
+    color: red;
+  }
+  
+  /* ID Selector */
+  #heading {
+    font-size: 32px;
+  }
+  
+  /* Attribute Selector */
+  p[data-type="paragraph"] {
+    font-style: italic;
+  }
+  
+  /* Descendant Selector */
+  .container ul {
+    margin: 0;
+  }
+  
+  /* Universal Selector */
+  * {
+    box-sizing: border-box;
+  }
+  
