@@ -36,3 +36,6 @@ This repository is ideal for anyone wanting to enhance their web development ski
 Whether you're a beginner or need a quick review, this repository will help you master the basics of CSS and create beautiful, responsive websites in no time. Jump in and start styling your web pages with confidence today!
 
 Get started now and learn CSS in just one hour!
+
+### First refer notes from cssnotes.pdf then practice from code......Thank you !!
+
